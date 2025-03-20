@@ -23,15 +23,15 @@
 
 ## 📁 目录结构
 ### WebScraping-Tutorial/  # Python 爬虫全栈学习项目
-│──  README.md         # 项目说明文档
-│──  requirements.txt  # 依赖库
-│──  Selenium/         # Selenium 相关代码
-│──  Scrapy/           # Scrapy 爬虫项目
-│──  AJAX.ipynb        # AJAX 动态加载解析（Jupyter Notebook）
-│──  Xpath.ipynb       # XPath 解析（Jupyter Notebook）
-│──  Re.ipynb          # 正则表达式（Jupyter Notebook）
-│──  Bs4.ipynb         # BeautifulSoup 解析（Jupyter Notebook）
-│──  Pool.ipynb        # 多进程池爬取（Jupyter Notebook）
-│──  Async.ipynb       # 异步协程爬取（Jupyter Notebook）
-│──  Verify.ipynb      # 验证码处理（Jupyter Notebook）
+### │──  README.md         # 项目说明文档
+### │──  requirements.txt  # 依赖库
+### │──  Selenium/         # Selenium 相关代码
+### │──  Scrapy/           # Scrapy 爬虫项目
+### │──  AJAX.ipynb        # AJAX 动态加载解析（Jupyter Notebook）
+### │──  Xpath.ipynb       # XPath 解析（Jupyter Notebook）
+### │──  Re.ipynb          # 正则表达式（Jupyter Notebook）
+### │──  Bs4.ipynb         # BeautifulSoup 解析（Jupyter Notebook）
+### │──  Pool.ipynb        # 多进程池爬取（Jupyter Notebook）
+### │──  Async.ipynb       # 异步协程爬取（Jupyter Notebook）
+### │──  Verify.ipynb      # 验证码处理（Jupyter Notebook）
 
