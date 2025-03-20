@@ -4,7 +4,7 @@
 
 📚 本项目系统性地学习和实践了 Python 爬虫的核心技术，包括 AJAX 解析、XPath、正则表达式 (re)、BeautifulSoup 数据解析、多进程池 (pool)、异步协程 (async)、Selenium 渲染网页、Scrapy 框架以及验证码 (verify) 处理。
 
-⸻
+
 
 # 📖 项目简介
 
