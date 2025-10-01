@@ -10,15 +10,15 @@ This project includes the core techniques of Python web scraping, providing modu
 ⸻
 
 📌 Core Modules
-•	✅ AJAX Dynamic Loading: Handle JavaScript-rendered web pages
-•	✅ XPath Parsing: Efficient HTML parsing using lxml
-•	✅ Regular Expressions (re): Extract complex text data
-•	✅ BeautifulSoup Parsing: HTML parsing using bs4
-•	✅ Multiprocessing Pool: Speed up scraping tasks
-•	✅ Asynchronous Coroutines (async): Non-blocking scraping to improve performance
-•	✅ Selenium Rendering: Simulate user actions and scrape JavaScript pages
-•	✅ Scrapy Framework: Efficient large-scale data scraping
-•	✅ Captcha Handling: Bypass captchas to enhance crawler usability
+ •	✅ AJAX Dynamic Loading: Handle JavaScript-rendered web pages
+ •	✅ XPath Parsing: Efficient HTML parsing using lxml
+ •	✅ Regular Expressions (re): Extract complex text data
+ •	✅ BeautifulSoup Parsing: HTML parsing using bs4
+ •	✅ Multiprocessing Pool: Speed up scraping tasks
+ •	✅ Asynchronous Coroutines (async): Non-blocking scraping to improve performance
+ •	✅ Selenium Rendering: Simulate user actions and scrape JavaScript pages
+ •	✅ Scrapy Framework: Efficient large-scale data scraping
+ •	✅ Captcha Handling: Bypass captchas to enhance crawler usability
 
 
 
