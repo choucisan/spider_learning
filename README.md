@@ -10,6 +10,9 @@ This project includes the core techniques of Python web scraping, providing modu
 
 
 📌 Core Modules
+
+
+
  • 	✅ AJAX Dynamic Loading: Handle JavaScript-rendered web pages\
  • 	✅ XPath Parsing: Efficient HTML parsing using lxml\
  • 	✅ Regular Expressions (re): Extract complex text data\
